@@ -25,8 +25,8 @@ const HeroSection = ({ searchTerm, handleSearch }) => {
       <div className="flex justify-center pt-14 md:pt-0 order-1 md:order-2">
         <img
           className="h-[400px] w-[400px] md:h-[500px] md:w-[500px] object-cover"
-          src="../../src/assets/rickAndMortyHero.webp"
-          alt=""
+          src="/rickAndMortyHero.webp"
+          alt="rick-and-morty-hero"
         />
       </div>
     </div>
